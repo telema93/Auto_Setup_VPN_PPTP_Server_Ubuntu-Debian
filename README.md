@@ -4,7 +4,7 @@ Setup PPTP Ubuntu/Debian simple :)
 ##Example usage
 
 ```sh
-wget https://raw.githubusercontent.com/Saleh7/Auto_Setup_VPN_PPTP_Server_Ubuntu-Debian/master/pptp.sh
+wget https://raw.githubusercontent.com/telema93/Auto_Setup_VPN_PPTP_Server_Ubuntu-Debian/master/pptp.sh
 ```
 ####Help :
 
